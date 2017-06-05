@@ -22,10 +22,16 @@ Today's Progress: Been at it since morning. Continued working on the Random Quot
 
 Thoughts: Interesting. The web development domain is verse, need to read more. Relieved to cancel off Day 3 as completed on my Calendar.  :) #97DaysLeft
 
-#Day 4: June 4, 2017 - Saturday; 10:00PM
+#Day 4: June 4, 2017 - Sunday; 10:00PM
 
 Today's Progress: Came back from church tired, twas a long service. However, I was able to tackle the background color change with each button click. was also able to insert the twitter and facebook icons too and have them change to the background color at each click. 
 New challenge discovered: having issues getting the tweet fa-icon to post tweets. Must I use the default Tweeter button. will continue tomorrow joor o.
 
 Thoughts: Felt frustrated with the tweeter button and had to go chill out. Today as yesterday felt rather 'Relieved' than excited to cancel off Day 4 as completed on my Calendar.  :) #96DaysLeft
+
+#Day 5: June 5, 2017 - Monday; 11:30PM
+
+Today's Progress: Finally figured out how to fulfill the userstory of posting the quotes of a random quote machine to twitter. Thanks to Stephen Mayeus@ESLhiphop for demonstrating a simple way. Cant believe i have searched all past weekend of how to make this happen. With this I close out on the FCC Random Quote Machine challenge
+
+Thoughts: Wow.. another challenge completed. Its quite late already but I smile as i cancel off Day 5 as completed on my Calendar.  :) #95DaysLeft
 
